@@ -1,0 +1,5 @@
+--- 
+name: indiacash
+urls:
+- http://indiacash.io/indiacash-latest-linux-gitian.zip
+minimum_weight: 120

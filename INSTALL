@@ -1,0 +1,9 @@
+Building Indiacash
+
+See doc/readme-qt.rst for instructions on building Indiacash-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Indiacash.
+
+See doc/build-*.txt for instructions on building indiacashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Indiacash.
