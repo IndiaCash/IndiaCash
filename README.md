@@ -12,7 +12,7 @@ What is Indiacash?
 
 Indiacash is a fast version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2 second block targets for ultra fast transactions
- - Only 50 million total coins will be generated
+ - Only 180 million total coins will be generated
  - .03125 coins per block
  - SplashGuard retargets difficulty after every block
 
