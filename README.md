@@ -17,7 +17,7 @@ Indiacash is a fast version of Bitcoin using scrypt as a proof-of-work algorithm
  - SplashGuard retargets difficulty after every block
 
 For more information, as well as an immediately useable, binary version of
-the Indiacash client sofware, see https://www.indiacash.us.
+the Indiacash client sofware, see https://www.indiacash.org.
 
 License
 -------
