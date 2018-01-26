@@ -36,7 +36,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x");
+uint256 hashGenesisBlock("0xb8a1e2fe78a6ce54fa2fcdd184c3f1416e31d72e6d130be7589293abd6b239a3");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 16); // Indiacash: starting difficulty is 1 / 2^16
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
